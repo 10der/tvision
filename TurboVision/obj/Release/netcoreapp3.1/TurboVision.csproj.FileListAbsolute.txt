@@ -1,0 +1,9 @@
+D:\Work\tvision\TurboVision\bin\Release\netcoreapp3.1\TurboVision.deps.json
+D:\Work\tvision\TurboVision\bin\Release\netcoreapp3.1\TurboVision.dll
+D:\Work\tvision\TurboVision\bin\Release\netcoreapp3.1\TurboVision.pdb
+D:\Work\tvision\TurboVision\obj\Release\netcoreapp3.1\TurboVision.csprojAssemblyReference.cache
+D:\Work\tvision\TurboVision\obj\Release\netcoreapp3.1\TurboVision.AssemblyInfoInputs.cache
+D:\Work\tvision\TurboVision\obj\Release\netcoreapp3.1\TurboVision.AssemblyInfo.cs
+D:\Work\tvision\TurboVision\obj\Release\netcoreapp3.1\TurboVision.csproj.CoreCompileInputs.cache
+D:\Work\tvision\TurboVision\obj\Release\netcoreapp3.1\TurboVision.dll
+D:\Work\tvision\TurboVision\obj\Release\netcoreapp3.1\TurboVision.pdb

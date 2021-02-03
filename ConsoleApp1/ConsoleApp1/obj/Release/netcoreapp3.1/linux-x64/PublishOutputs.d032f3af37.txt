@@ -1,0 +1,7 @@
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.dll
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.deps.json
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.runtimeconfig.json
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\ConsoleApp1.pdb
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\TurboVision.dll
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\publish\TurboVision.pdb

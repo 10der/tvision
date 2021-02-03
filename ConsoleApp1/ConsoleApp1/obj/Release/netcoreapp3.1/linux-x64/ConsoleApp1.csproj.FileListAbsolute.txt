@@ -1,0 +1,16 @@
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\linux-x64\ConsoleApp1
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\linux-x64\ConsoleApp1.deps.json
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\linux-x64\ConsoleApp1.runtimeconfig.json
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\linux-x64\ConsoleApp1.runtimeconfig.dev.json
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\linux-x64\ConsoleApp1.dll
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\linux-x64\ConsoleApp1.pdb
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\linux-x64\TurboVision.dll
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\linux-x64\TurboVision.pdb
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\linux-x64\ConsoleApp1.csprojAssemblyReference.cache
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\linux-x64\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\linux-x64\ConsoleApp1.AssemblyInfo.cs
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\linux-x64\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\linux-x64\ConsoleApp1.csproj.CopyComplete
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\linux-x64\ConsoleApp1.dll
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\linux-x64\ConsoleApp1.pdb
+D:\Work\tvision\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\linux-x64\ConsoleApp1.genruntimeconfig.cache

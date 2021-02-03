@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wk0JTFq7TmF/24K+1VN0TazIROAiqP1DvKuOAn01wWGPNP+0RcFe1RtLxoJCUdCIjXNvmN/otqsODUyEjvaNSA==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\tvision\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olegd\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.11\\microsoft.netcore.app.host.linux-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
